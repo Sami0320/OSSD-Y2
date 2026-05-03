@@ -91,7 +91,7 @@ Each Week folder will contain the tasks to be completed most probably the one we
 * Keep commits clean and meaningful
 * Ask questions if you get stuck
 
-
+Completed assignment task
 ##  Notes
 
 * New content will be added weekly during class
